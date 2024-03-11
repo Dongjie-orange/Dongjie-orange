@@ -1,5 +1,5 @@
 <!-- Your title -->
-## Hi, I'm Dongjie CHEN, a Ph.D. candidate from 🇨🇳 China.
+## Hi, I'm Dongjie Chen, a Ph.D. candidate from 🇨🇳 China.
 
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
