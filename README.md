@@ -18,7 +18,7 @@ You can use the website to generate badges: https://shields.io/
 - 🌱 I’m currently concentrating on multi-omics research of pancreatic cancer
 - 🤔 I’m looking for help with Python 😭
 - 💬 Ask me about anything, I am happy to help
-- 📫 How to reach me: chen_dj@sjtu.edu.cn
+- 📫 How to reach me: chen_dj@outlook.com
 - 🦊 Personal page: https://dongjie-orange.github.io/
   
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
@@ -29,7 +29,7 @@ Dongjie CHEN = {
   code: [R, Python, Perl, Java],
   skills: [RNA-seq, scRNA-seq, ATAC-seq, Proteomics, Metabonomics],
   background: {
-                        status: "2nd year Ph.D. candidate",
+                        status: "3nd year Ph.D. candidate",
                         major: "Surgery",
                         mentor: "Baiyong SHEN"
                       },
