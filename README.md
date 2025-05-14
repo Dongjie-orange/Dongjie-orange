@@ -14,9 +14,8 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="35%" height="120%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working in the Pancreatic Disease Center at [Ruijin Hospital](http://www.rjh.com.cn) 
+- 👨🏽‍💻 I’m currently working in the Pancreatic Disease Center at [Zhongshan Hospital, Fudan University](https://www.zs-hospital.sh.cn/) 
 - 🌱 I’m currently concentrating on multi-omics research of pancreatic cancer
-- 🤔 I’m looking for help with Python 😭
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: chen_dj@outlook.com
 - 🦊 Personal page: https://dongjie-orange.github.io/
@@ -29,9 +28,9 @@ Dongjie CHEN = {
   code: [R, Python, Perl, Java],
   skills: [RNA-seq, scRNA-seq, ATAC-seq, Proteomics, Metabonomics],
   background: {
-                        status: "3nd year Ph.D. candidate",
-                        major: "Surgery",
-                        mentor: "Baiyong SHEN"
+                        status: "Surgeon",
+                        major: "Pancreatic Surgery",
+                        mentor: "Liang Liu"
                       },
  current work: "I am doing the pan-cancer analysis based on scRNA-seq"
 }
