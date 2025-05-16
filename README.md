@@ -14,7 +14,7 @@ You can use the website to generate badges: https://shields.io/
 <!-- Any image aligned to the right. Beware the width -->
 <img width="35%" height="120%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 👨🏽‍💻 I’m currently working in the Pancreatic Disease Center at [Zhongshan Hospital, Fudan University](https://www.zs-hospital.sh.cn/) 
+- 👨🏽‍💻 I’m currently working in the Pancreatic Disease Center at [Zhongshan Hospital, Fudan University](https://www.zs-hospital.sh.cn/), Shanghai, China
 - 🌱 I’m currently concentrating on multi-omics research of pancreatic cancer
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: chen_dj@outlook.com
